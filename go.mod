@@ -1,4 +1,4 @@
-module on0z/aws-sdk-go-mock
+module github.com/on0z/aws-sdk-go-mock
 
 go 1.18
 
